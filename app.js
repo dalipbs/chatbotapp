@@ -54,7 +54,7 @@ dialog.matches('AgentInfo',[
 
            else
            {
-               personaldetails.name='Dalip';
+               personaldetails.name='harish';
              session.send('Hello '+personaldetails.name);
                next();
            }},
